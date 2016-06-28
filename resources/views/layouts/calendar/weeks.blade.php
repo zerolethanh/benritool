@@ -1,0 +1,1 @@
+@each('layouts.calendar.tr',$weeks,'w')

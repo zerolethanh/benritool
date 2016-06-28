@@ -1,0 +1,1 @@
+<tr> @each('layouts.calendar.tr_th',$wdays,'wday') </tr>{{PHP_EOL}}

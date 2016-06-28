@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/benritool":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/benritool","hostpath":"/Users/ZE/PhpstormProjects/benritool","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ZE/PhpstormProjects/benritool","disabled":false,"__vagrantfile":true}}}
